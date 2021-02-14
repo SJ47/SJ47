@@ -1,6 +1,6 @@
 ### Hi there 👋
 Check out my portfolio at
-###[scottjohnston.dev](https://scottjohnston.dev). 
+### [scottjohnston.dev](https://scottjohnston.dev). 
 
 <!--
 **SJ47/SJ47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
