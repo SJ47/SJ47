@@ -1,5 +1,6 @@
 ### Hi there 👋
-Check out my portfolio at [scottjohnston.dev](https://scottjohnston.dev)
+Check out my portfolio at [scottjohnston.dev](https://scottjohnston.dev). [![Netlify Status](https://api.netlify.com/api/v1/badges/3b2402ac-c396-41bd-bc11-5d0f2da4bac2/deploy-status)](https://app.netlify.com/sites/admiring-davinci-118876/deploys)
+
 <!--
 **SJ47/SJ47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
