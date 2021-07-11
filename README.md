@@ -40,11 +40,11 @@
 
 <br/>
 
-## Libraries/APIs/Source Control
-<img align="left" alt="leaflet" src="https://img.shields.io/badge/leaflet%20-%23199900.svg?&style=for-the-badge&logo=leaflet&logoColor=white" />
-<img align="left" alt="stripe" src="https://img.shields.io/badge/stripe%20-%23008CDD.svg?&style=for-the-badge&logo=stripe&logoColor=white" />
+## Source Control/Libraries/APIs
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="github" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="leaflet" src="https://img.shields.io/badge/leaflet%20-%23199900.svg?&style=for-the-badge&logo=leaflet&logoColor=white" />
+<img align="left" alt="stripe" src="https://img.shields.io/badge/stripe%20-%23008CDD.svg?&style=for-the-badge&logo=stripe&logoColor=white" />
 
 <br/>
 
