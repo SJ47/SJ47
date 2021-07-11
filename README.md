@@ -2,7 +2,7 @@
 # I'm a software developer from Scotland
 <!-- Check out my portfolio at [scottjohnston.dev](https://scottjohnston.dev) -->
 ## Check out my portfolio
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-blue" />](https://scottjohnston.dev/)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=for-the-badge" />](https://scottjohnston.dev/)
 
 <br>
 <br>
