@@ -1,5 +1,4 @@
-### Hi there 👋
-# I'm Scott, a software developer from Scotland
+## Hi there &nbsp;👋 &nbsp;  I'm Scott, a software developer from Scotland
 <!-- Check out my portfolio at [scottjohnston.dev](https://scottjohnston.dev) -->
 
 ### Check out my portfolio at...
