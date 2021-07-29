@@ -2,7 +2,7 @@
 <!-- Check out my portfolio at [scottjohnston.dev](https://scottjohnston.dev) -->
 
 ### Check out my portfolio at...
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=for-the-badge" />](https://scottjohnston.dev/)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=plastic&for-the-badge" height="40" />](https://scottjohnston.dev/)
 
 <br>
 
