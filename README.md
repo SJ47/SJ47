@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there &nbsp;👋 &nbsp;  I'm Scott, a software developer from Scotland</h1>
 
-## <span>Check out my live portfolio at... &nbsp; &nbsp; [<img alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=plastic&for-the-badge" height="30" />](https://scottjohnston.dev/) </span>
+## Check out my live portfolio at... &nbsp; &nbsp; [<img alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=for-the-badge&logo=appveyor" height="30" />](https://scottjohnston.dev/)
 
 <table>
     <thead>
