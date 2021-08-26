@@ -6,10 +6,10 @@
     <thead>
         <tr>
             <td>
-                Skills, Experience and Knowledge
+                <h3 align="center">Skills, Experience and Knowledge</h3>
             </td>
             <td>
-                My GitHub Stats and Details
+                <h3 align="center">My GitHub Stats and Details</h3>
             </td>
         </tr>
     </thead>
@@ -19,7 +19,7 @@
                 <table>
                     <tbody>
                         <tr>
-                            <td colspan="5" align="center">Frontend</td>
+                            <td style="background-color: red" colspan="5" align="center">Frontend</td>
                         </tr>
                         <tr>
                             <td align="center" width="96">
@@ -119,7 +119,7 @@
             </td>
             <td></td>
         <tr>
-            <td colspan="5">Hosting & Deployment</td>
+            <td colspan="5" align="center">Hosting & Deployment</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -151,4 +151,20 @@
 </td>
 </tr>
 </tbody>
+<tfooter>
+    <tr>
+        <td colspan="2" align="center">
+            Connect with me
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://www.linkedin.com/in/scott-johnston-it/">
+            <img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="https://twitter.com/scottJ_Dev/">
+            <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        </td>
+    </tr>
+</tfooter>
 </table>
