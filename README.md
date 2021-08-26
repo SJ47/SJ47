@@ -45,7 +45,7 @@
                             <td></td>
                         </tr>
                         <tr>
-                            <td colspan="5" align="center">Backend</td>
+                            <td colspan="5" align="center"><br>Backend</td>
                         </tr>
                         <tr>
                             <td align="center" width="96">
@@ -76,7 +76,7 @@
                         </tr>
         </tr>
         <tr>
-            <td colspan="5" align="center">Databases</td>
+            <td colspan="5" align="center"><br>Databases</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -94,7 +94,7 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="5" align="center">Source Control / Libraries / APIs</td>
+            <td colspan="5" align="center"><br>Source Control / Libraries / APIs</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -119,7 +119,7 @@
             </td>
             <td></td>
         <tr>
-            <td colspan="5" align="center">Hosting & Deployment</td>
+            <td colspan="5" align="center"><br>Hosting & Deployment</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -146,7 +146,7 @@
 <td valign="top">
     <img
         src="https://github-readme-stats.vercel.app/api?username=sj47&show_icons=true&theme=react&count_private=true&include_all_commits=true">
-    <br>
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj47&theme=blue-green" width="495">
 </td>
 </tr>
