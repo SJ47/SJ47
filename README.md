@@ -1,78 +1,147 @@
-## Hi there &nbsp;👋 &nbsp;  I'm Scott, a software developer from Scotland
-<!-- Check out my portfolio at [scottjohnston.dev](https://scottjohnston.dev) -->
+<h1 align="left"> Hi there &nbsp;👋 &nbsp;  I'm Scott, a software developer from Scotland</h1>
 
-### Check out my portfolio at...
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=plastic&for-the-badge" height="40" />](https://scottjohnston.dev/)
+## <span>Check out my live portfolio at... &nbsp; &nbsp; [<img alt="portfolio" src="https://img.shields.io/badge/scottjohnston.dev-portfolio-orange?style=plastic&for-the-badge" height="30" />](https://scottjohnston.dev/) </span>
 
-<br>
-
-##
-
-### Connect with me through...
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/scott-johnston-it/)
-
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/scottJ_Dev)
-
-<br/>
-
-##
-
-### With skills, experience and knowledge in...
-
-### Frontend
-<img align="left" alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-
-<br/>
-
-##
-
-### Backend
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />  
-<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="flask" src="https://img.shields.io/badge/flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-
-<br/>
-
-##
-
-### Databases
-<img align="left" alt="mongodb" src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgresql%20-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br/>
-
-##
-
-### Source Control/Libraries/APIs
-<img align="left" alt="git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-<img align="left" alt="github" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="leaflet" src="https://img.shields.io/badge/leaflet%20-%23199900.svg?&style=for-the-badge&logo=leaflet&logoColor=white" />
-<img align="left" alt="stripe" src="https://img.shields.io/badge/stripe%20-%23008CDD.svg?&style=for-the-badge&logo=stripe&logoColor=white" />
-
-<br/>
-
-##
-
-### Hosting and Deployment
-<img align="left" alt="netlify" src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
-<img align="left" alt="heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-<img align="left" alt="firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
-<!--
-**SJ47/SJ47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <thead>
+        <tr>
+            <td>
+                Skills, Experience and Knowledge
+            </td>
+            <td>
+                My GitHub Stats and Details
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td colspan="5">FRONTEND</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="96">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg"
+                                    width="48" height="48" alt="html5" />
+                                <br>HTML
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
+                                    width="48" height="48" alt="css3" />
+                                <br>CSS
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+                                    width="48" height="48" alt="JavaScript" />
+                                <br>JavaScript
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png"
+                                    width="48" height="48" alt="React" />
+                                <br>React JS
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">BACKEND</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="96">
+                                <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width="48"
+                                    height="48" alt="node js" />
+                                <br>Node JS
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
+                                    width="48" height="48" alt="Java" />
+                                <br>Java
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg"
+                                    width="48" height="48" alt="Spring" />
+                                <br>Spring
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+                                    width="48" height="48" alt="Python" />
+                                <br>Python
+                            </td>
+                            <td align="center" width="96">
+                                <img src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png"
+                                    width="48" height="48" alt="Flask" />
+                                <br>Flask
+                            </td>
+                        </tr>
+        </tr>
+        <tr>
+            <td colspan="5">DATABASES</td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png"
+                    width="48" height="48" alt="Mongo DB" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48"
+                    height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5">SOURCE CONTROL / LIBRARIES / APIs</td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
+                    width="48" height="48" alt="GIT" />
+                <br>GIT
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48"
+                    height="48" alt="GitHub" />
+                <br>GitHub
+            </td>
+            <td align="center" width="96">
+                <img src="https://symbols-electrical.getvecta.com/stencil_87/13_leaflet-icon.1fe2a33223.svg"
+                    width="48" height="48" alt="Leaflet" />
+                <br>Leaflet
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"
+                    width="48" height="48" alt="Stripe" />
+                <br>Stripe
+            </td>
+        <tr>
+            <td colspan="5">HOSTING & DEPLOYMENT</td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://www.netlify.com/img/press/logos/logomark.png" width="48" height="48"
+                    alt="Netlify" />
+                <br>Netlify
+            </td>
+            <td align="center" width="96">
+                <img src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg"
+                    width="48" height="48" alt="Heroku" />
+                <br>Heroku
+            </td>
+            <td align="center" width="96">
+                <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png"
+                    width="48" height="48" alt="Firebase" />
+                <br>Firebase
+            </td>
+        </tr>
+    </tbody>
+</table>
+</td>
+<td valign="top">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=sj47&show_icons=true&theme=react&count_private=true&include_all_commits=true">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj47&theme=blue-green" width="495">
+</td>
+</tr>
+</tbody>
+</table>
