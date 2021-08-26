@@ -19,7 +19,7 @@
                 <table>
                     <tbody>
                         <tr>
-                            <td colspan="5">FRONTEND</td>
+                            <td colspan="5" align="center">Frontend</td>
                         </tr>
                         <tr>
                             <td align="center" width="96">
@@ -42,9 +42,10 @@
                                     width="48" height="48" alt="React" />
                                 <br>React JS
                             </td>
+                            <td></td>
                         </tr>
                         <tr>
-                            <td colspan="5">BACKEND</td>
+                            <td colspan="5" align="center">Backend</td>
                         </tr>
                         <tr>
                             <td align="center" width="96">
@@ -75,7 +76,7 @@
                         </tr>
         </tr>
         <tr>
-            <td colspan="5">DATABASES</td>
+            <td colspan="5" align="center">Databases</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -88,9 +89,12 @@
                     height="48" alt="PostgreSQL" />
                 <br>PostgreSQL
             </td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td colspan="5">SOURCE CONTROL / LIBRARIES / APIs</td>
+            <td colspan="5" align="center">Source Control / Libraries / APIs</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -113,8 +117,9 @@
                     width="48" height="48" alt="Stripe" />
                 <br>Stripe
             </td>
+            <td></td>
         <tr>
-            <td colspan="5">HOSTING & DEPLOYMENT</td>
+            <td colspan="5">Hosting & Deployment</td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -132,6 +137,8 @@
                     width="48" height="48" alt="Firebase" />
                 <br>Firebase
             </td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
