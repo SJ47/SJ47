@@ -5,15 +5,11 @@
 <table>
     <thead>
         <tr>
-            <td colspan="2">
-<!--                 <h3 align="center">My GitHub Stats and Details</h3> -->
-                    <img width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=sj47&show_icons=true&theme=react&count_private=true&include_all_commits=true">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
+            <td>
                 <h3 align="center">Skills, Experience and Knowledge</h3>
+            </td>
+            <td>
+                <h3 align="center">My GitHub Stats and Details</h3>
             </td>
         </tr>
     </thead>
@@ -148,10 +144,10 @@
 </table>
 </td>
 <td valign="top">
-<!--     <img width="800" 
+    <img
         src="https://github-readme-stats.vercel.app/api?username=sj47&show_icons=true&theme=react&count_private=true&include_all_commits=true">
-    <br><br> -->
-    <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj47&theme=blue-green" width="495">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj47&theme=blue-green" width="495">
 </td>
 </tr>
 </tbody>
@@ -171,4 +167,4 @@
         </td>
     </tr>
 </tfooter>
-</table>![image](https://user-images.githubusercontent.com/54220054/131112516-7f0c0f5c-2cba-4de7-bda9-221b18028308.png)
+</table>
