@@ -19,7 +19,7 @@
                 <table>
                     <tbody>
                         <tr>
-                            <td style="background-color: red" colspan="5" align="center">Frontend</td>
+                            <td colspan="5" align="center">Frontend</td>
                         </tr>
                         <tr>
                             <td align="center" width="96">
