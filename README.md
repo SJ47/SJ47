@@ -47,7 +47,6 @@
                                     width="48" height="48" alt="Styled Components" />
                                 <br>Styled Components
                             </td>
-                            <td></td>
                         </tr>
                         <tr>
                             <td colspan="5" align="center"><br>Backend</td>
