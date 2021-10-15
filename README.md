@@ -42,6 +42,11 @@
                                     width="48" height="48" alt="React" />
                                 <br>React JS
                             </td>
+                             <td align="center" width="96">
+                                <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"
+                                    width="48" height="48" alt="Styled Components" />
+                                <br>Styled Components
+                            </td>
                             <td></td>
                         </tr>
                         <tr>
