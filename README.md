@@ -150,13 +150,15 @@
                 <br>GIT
             </td>
             <td align="center" width="150">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48"
+<!--                 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" -->
+                     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48"
                     height="48" alt="GitHub" />
                 <br>GitHub
             </td>
             <td align="center" width="150">
-                <img src="https://symbols-electrical.getvecta.com/stencil_87/13_leaflet-icon.1fe2a33223.svg"
-                    width="48" height="48" alt="Leaflet" />
+<!--                 <img src="https://symbols-electrical.getvecta.com/stencil_87/13_leaflet-icon.1fe2a33223.svg" -->
+                     <img src="https://leafletjs.com/docs/images/logo.png"
+                    width="120" height="48" alt="Leaflet" />
                 <br>Leaflet
             </td>
             <td align="center" width="150">
