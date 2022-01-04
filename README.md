@@ -174,12 +174,12 @@
 
 <table align="center">
       <tr>
-            <td colspan="5" align="center">My GitHub Statistics</td>
+            <td align="center">My GitHub Statistics</td>
       </tr>
       <tr>
             <td>
-                  <img src="https://github-readme-stats.vercel.app/api?username=sj47&show_icons=true&theme=react&count_private=true&include_all_commits=true" height="150">
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj47&theme=blue-green&layout=compact" height="150">
+                  <img src="https://github-readme-stats.vercel.app/api?username=sj47&show_icons=true&theme=react&count_private=true&include_all_commits=true" height="160">
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj47&theme=blue-green&layout=compact" height="160">
             </td>
       </tr>
 </table>
