@@ -121,7 +121,7 @@
                 <br>PostgreSQL
             </td>
             <td align="center" width="150" height="120">
-                <img src="https://www.netlify.com/img/press/logos/logomark.png" width="48" height="48"
+                <img src="hhttps://www.netlify.com/v3/img/components/logomark.png" width="48" height="48"
                     alt="Netlify" />
                 <br>Netlify
             </td>
