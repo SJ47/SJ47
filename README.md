@@ -4,7 +4,7 @@
 <table>
       <tr>
             <td align="center">
-                  Check out my portfolio:point_down: and live demos
+                  Check out my portfolio :point_down: and live demos
             </td>
             <td align="center">
                   Connect with me
